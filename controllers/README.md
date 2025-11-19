@@ -1,0 +1,1 @@
+Controllers folder. Create controller files: authController.js, productController.js, tagController.js, discountController.js, userController.js
