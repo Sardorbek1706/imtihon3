@@ -1,1 +1,0 @@
-Place your Knex migration files here. Use `knex migrate:make <name>` to create migrations.
